@@ -8,7 +8,7 @@
 
 Demo in Telegram: [@UnArchiveBot](https://t.me/UnArchiveBot)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HuzunluArtemis/UnArchiveBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cosmoostart/lzez-unzip)
 
 🇬🇧 Send archive and reply with /unzip (if passworded: Leave a space after the command and enter the password.) You can clear your all files with /clearme, Your process quee will be cleared. If anything is uploading at now, it will be cleared. Be careful.
 
